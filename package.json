@@ -1,0 +1,17 @@
+{
+  "name":"vue-radixx",
+  "version":"0.0.1",
+  "description":"",
+  "author":{
+    "name":"Ifeora Okechukwu",
+    "email":"isocroft@gmail.com",
+    "url":"https://twitter.com/isocroft/"
+  },
+  "peerDependencies":{
+  
+  },
+  "dependencies":{},
+  "scripts":{
+  
+  }
+}
